@@ -7,7 +7,7 @@
 
 > **Train, Record, Optimize — Empower robotics algorithm innovation with unprecedented simplicity and efficiency.**
 
-GradMotion 是一个为机器人运动控制研发者打造的 **开源平台**。  
+GradMotion 是一个为机器人运动控制研发者打造的 **训练平台**。  
 通过 **云端预装环境、一键启动、多任务并行调参、在线开发与实验复现** 等功能，让你专注于算法创新，无需担心复杂的环境搭建与算力不足。  
 [🌐 访问官网](https://gradmotion.com/)
 
