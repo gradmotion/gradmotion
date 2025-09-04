@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/github/license/gradmotion/gradmotion?color=blue)
 ![Stars](https://img.shields.io/github/stars/gradmotion/gradmotion?style=social)
 ![Issues](https://img.shields.io/github/issues/gradmotion/gradmotion)
-![Version](https://img.shields.io/github/v/release/gradmotion/gradmotion?color=success)
 
 > **Train, Record, Optimize — Empower robotics algorithm innovation with unprecedented simplicity and efficiency.**
 
