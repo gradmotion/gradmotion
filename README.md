@@ -1,16 +1,28 @@
-## Hi there 👋
+# GradMotion
 
-<!--
-**gradmotion/gradmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+简短一句话介绍平台核心价值。
 
-Here are some ideas to get you started:
+## 亮点特性
+- 一键启动预装环境（Isaac Gym/Sim）。
+- 实验高复现性。
+- 云端弹性算力降低成本。
+- 多任务并行 + AI 调参，效率翻倍。
+- 在线 IDE + 云桌面，开发流程零摩擦。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 适用场景
+- 高校教学、科研实验室、学生项目、初学者入门等场景详述。
+
+## 技术支持
+- 预置机器人模型与软件栈列表。
+- 在线 IDE 与云桌面介绍。
+- 调参平台能力说明。
+
+## 快速上手指南
+提供：注册 → 启动镜像 → 编辑训练脚本 → 启动训练 → 查看日志/复现 → 保存镜像 的流程截图或命令示例。
+
+## 资源与帮助
+链接到：使用手册、更新日志、BUG反馈、产品建议、知识库。 [GradMotion](https://gradmotion.com/)
+
+---
+
+欢迎任何形式的反馈或贡献，一起推动机器人算法研发效率！
