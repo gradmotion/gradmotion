@@ -64,7 +64,7 @@ GradMotion 专为以下人群设计：
 
 ## 🚀 快速开始
 
-1. [注册并登录 GradMotion](https://gradmotion.com/signup)  
+1. [注册并登录 GradMotion](https://gradmotion.com)  
 2. 选择镜像并启动云端实验环境  
 3. 在线 IDE 编辑训练脚本  
 4. 运行实验并通过日志监控进度  
